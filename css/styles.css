@@ -1,0 +1,51 @@
+
+body{
+    background-color: azure;
+}
+
+.recife {
+    display: flex;
+    justify-content: center;
+}
+
+.imagem1 {
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    border-radius: 15px;
+    margin-left: 450px;
+    margin-right: 450px;
+    
+}
+
+.texto_recife {
+    display: flex;
+    justify-content: center;
+}
+
+.img_marco {
+   display: flex;   
+    
+}
+
+.hist {
+    
+    margin-left: 15px;
+        
+}
+
+.ponto {
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin-top: 40px;
+            
+}
+
+.logo {
+
+    margin-left: 30px;
+}
+a {
+    text-decoration: none;
+}
